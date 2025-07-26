@@ -90,9 +90,6 @@ Measured match confidence to prioritize relevance
 🧰 Tech Stack
 Python: pandas, BeautifulSoup, pdfminer.six, transformers, scikit-learn
 
-NLP: BERT embeddings, cosine similarity
-
-Visualization: Streamlit / Dash (planned)
 
 Data Source: Mirrulations Public S3
 
